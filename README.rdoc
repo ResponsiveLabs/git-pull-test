@@ -1,3 +1,5 @@
 == Git pull request demo
 
 This is a test app to demo pull requests.
+
+I also want to add that this project was made with Rails 4.1.rc
